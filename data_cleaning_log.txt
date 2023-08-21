@@ -1,0 +1,14 @@
+- Original df
+shape: (90348, 31)
+
+- Dropped 1459 rows where all values were null except investigation_type
+shape: (88889, 31)
+
+- Dropped 6 columns ['latitude', 'longitude', 'registration_number', 'far_description', 'schedule', 'publication_date']
+shape: (88889, 25)
+
+- Dropped 96 rows where df['injury_severity'] == 'Unavailable'
+shape: (88793, 26)
+
+
+
