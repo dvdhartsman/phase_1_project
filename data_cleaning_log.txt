@@ -17,3 +17,5 @@ Replaced Unknown/nan with 0
 
 - Dropped 3 columns ['accident_number', 'airport_code', 'airport_name']
 shape: (88793, 22)
+
+- Replaced all nan values in all non-numerical columns with "Unknown"
