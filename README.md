@@ -3,7 +3,7 @@
 
 ### Overview
 
-In this project, we analyzed a dataset composed of 90,000+ FAA records. The original data contained information from reports, or events where something harmful transpired. The data contained reports from a variety of different aircrafts. In many cases, the data were quite persuasive in displaying the enhanced safety of certain aircrafts over others.
+In this project, we analyzed a dataset composed of 90,000+ FAA records. The original data contained information from reports - events where aircrafts experienced damage or malfunctions. The data contained reports from a variety of different types of aircrafts. In many cases, the data were quite persuasive in demonstrating the enhanced safety of certain aircrafts over others.
 
 ### Business Problem
 
@@ -11,7 +11,7 @@ Our task was to provide advice and insight to a business group that intends on e
 
 ### Data 
 
-The data had records dating back to 1948. Every record corresponded to an official report by the FAA. The information in the reports pertained to the number of people on board, both injured and uninjured, the status of the plane, the purpose of the flight, and many other pieces of information. In many cases, the records were missing information, sometimes only for a few columns and sometimes for many fields of an entry. 
+The data had records dating back to 1948. Every record corresponded to an official report to the FAA. The information in the reports pertained to the number of people on board, both injured and uninjured, the status of the plane, the purpose of the flight, and many other pieces of information. In many cases, the records were missing information, sometimes only for a few columns and sometimes for many fields of an entry. 
 
 ### Methods
 
@@ -19,30 +19,15 @@ We filtered through the dataset, removing entries from vehicles that were not ai
 
 ### Conclusions
 
-Our recommended plane in the small/private aircraft industry is the <PRIVATE PLANE>. Factors we considered are <FACTORS!>, as well as <EVEN MORE FACTORS?!?!!>.
+Our recommended plane in the small/private aircraft industry is the """""PRIVATE PLANE"""". Factors we considered are """FACTORS!""", as well as """"EVEN MORE FACTORS?!?!!"""""".
 In the large/commercial aircraft category, we determined that the Boeing 767 and the Boeing 747 carried the least risk. These wide-body airplanes boasted the two lowest fatality rates for large planes, and showed very low fatality injuries per accident. The two aircraft also offer 2-engine (767) and 4-engine (747) diversity, allowing our stakeholders to enter the commercial market from multiple angles.
-For aerial application, we recommend the Grumman 164 and the Air Tractor 301. These planes earned our recommendation because of their exceptional  record for limiting deadly accidents and for rarely being totally destroyed. They both performed well in assessments related to weather as well.
-In summary, we conducted extensive data cleaning, exploratory analysis, and attempted to identify key stats to track to evaluate the quality of different airplanes.  The three airplanes we determined to be best in class are: <small>, <large>, and the Grumman 164 and Air Tractor 301 for aerial application. These planes compared favorably to other models in their industry, and we feel that we can offer our strong recommendation.
+For aerial application, we recommend the Grumman 164 and the Air Tractor 301. 
 
+    ![Comparison of Injuries per Report Amongst 4 Makes of Aerial Application Plane](https://github.com/heefjones/phase_1_project/blob/main/plots/work_plane_chart.jpg)
     
-### For  
-    
-    
+These planes earned our recommendation because of their exceptional  record for limiting deadly accidents and for rarely being totally destroyed. They both performed well in assessments related to weather as well.
+
+In summary, we conducted extensive data cleaning, exploratory analysis, and attempted to identify key stats to track to evaluate the quality of different airplanes.  The airplanes we determined to be best in class are: SMALLPLANES, the Boeing 767 and 747 for commercial use, and the Grumman 164 and Air Tractor 301 for aerial application. These planes compared favorably to other models in their industry, and we feel that we can offer our strong recommendation.
+      
 ### For More Information
-See our Jupyter Notebook or take a look at our presentation.
- 
-    
-
-    
-    We found <THESE THREE VISUALIZATIONS ,(aerial application craft will likely be a 2 column damage/fatality chart)> to be particularly instructive. After studying the relationships in these charts, we arrived at our conclusions with a high degree of conviction.     
-    
-    We arrived at our eventual conclusions by cleaning the data, establishing criteria for measuring safety, and comparing aircrafts to other aircrafts in their respective industries.
-    
-  
-We examined several critical factors, including fatality rates, injury severity, weather resistance, and aircraft resilience. These factors play a pivotal role in determining the overall safety of an aircraft.
-
-Our team has defined a safe aircraft recommendation based on these factors. We believe that an aircraft can be deemed safe if it exhibits low fatality and less injury severity in accidents. Additionally, we considered the aircraft's weather resistance, its ability to navigate through adverse weather conditions. For instance, a high rate of accidents occurring during VMC where the weather is favorable for visual flight rules, would indicate a lack of safety. Conversely, aircraft with lower accident rates in such conditions are considered safer.
-
-We employed inferential statistics to draw meaningful insights from a sample of 100 data points and extend our findings to the larger dataset. This statistical approach allowed us to make reliable inferences and draw conclusions about the safety of various aircraft models and manufacturers.
-Our data is limited in a sense that we only explored accident reports and we don’t know the total flight record to compare.
-And our data from work, private to commercial before the final sentence
+See our [Jupyter Notebook](https://github.com/heefjones/phase_1_project/blob/main/final_notebook.ipynb) or take a look at our [presentation](https://docs.google.com/presentation/d/1tfe3cDrtg7xirmz7nWk67luRpMLj_LHo1zjpqQQJzuo/edit#slide=id.p).

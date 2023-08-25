@@ -2,7 +2,7 @@
 # data/
 
 # plots folder for saving matplotlib/seaborn plots
-plots/
+# plots/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
