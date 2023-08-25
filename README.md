@@ -1,6 +1,5 @@
 # Aviation Data Analysis
-
-## Author: Danayt Aman, Heath Jones, and David Hartsman
+## Authors: Danayt Aman, Heath Jones, and David Hartsman
 
 ### Overview
 
@@ -16,11 +15,14 @@ The data had records dating back to 1948. Every record corresponded to an offici
 
 ### Methods
 
-We filtered through the dataset, removing entries from vehicles that were not airplanes. We also created categorical columns, dropped certain extraneous information, and imputed selected missing values. We employed inferential statistics to draw meaningful insights from a sample of more than 100 different specific airplanes that occurred most often in our data. This statistical approach allowed us to make reliable determinations and draw conclusions about the safety of various airplane models and manufacturers. We examined several critical factors, including fatality rates, injury severity, weather resistance, and aircraft structural resilience.
+We filtered through the dataset, removing entries from vehicles that were not airplanes. To capture the most representative subset of the dataset, we removed records before the year 2003. We also created categorical columns, dropped certain extraneous information, and imputed selected missing values. We employed inferential statistics to draw meaningful insights from a sample of more than 100 different specific airplane models that occurred most often in our data. This statistical approach allowed us to make reliable determinations and draw conclusions about the safety of various airplane models and manufacturers. We examined several critical factors, including fatality rates, injury severity, weather resistance, and aircraft structural resilience.
 
 ### Conclusions
 
-We have concluded our strongest recommendation for commercial airplanes are/is the <AIRPLANE#1> from the large commercial sector. It has an excellent performance record based on <REASONS>. Our recommended plane in the small/private aircraft industry is the <PRIVATE PLANE>. Factors we considered are <FACTORS!>, as well as <EVEN MORE FACTORS?!?!!>. For aerial application, we recommend the Grumman 164 and the Air Tractor 301. These planes earned our recommendation because of their exceptional  record for limiting deadly accidents and for rarely being totally destroyed. They both performed well in assessments related to weather as well. In summary, we conducted extensive data cleaning, exploratory analysis, and attempted to identify key stats to track to evaluate the quality of different airplanes.  The three airplanes we determined to be best in class are: <small>, <large>, and the Grumman 164 and Air Tractor 301 for aerial application. These planes compared favorably to other models in their industry, and we feel that we can offer our strong recommendation.
+Our recommended plane in the small/private aircraft industry is the <PRIVATE PLANE>. Factors we considered are <FACTORS!>, as well as <EVEN MORE FACTORS?!?!!>.
+In the large/commercial aircraft category, we determined that the Boeing 767 and the Boeing 747 carried the least risk. These wide-body airplanes boasted the two lowest fatality rates for large planes, and showed very low fatality injuries per accident. The two aircraft also offer 2-engine (767) and 4-engine (747) diversity, allowing our stakeholders to enter the commercial market from multiple angles.
+For aerial application, we recommend the Grumman 164 and the Air Tractor 301. These planes earned our recommendation because of their exceptional  record for limiting deadly accidents and for rarely being totally destroyed. They both performed well in assessments related to weather as well.
+In summary, we conducted extensive data cleaning, exploratory analysis, and attempted to identify key stats to track to evaluate the quality of different airplanes.  The three airplanes we determined to be best in class are: <small>, <large>, and the Grumman 164 and Air Tractor 301 for aerial application. These planes compared favorably to other models in their industry, and we feel that we can offer our strong recommendation.
 
     
 ### For  
@@ -34,7 +36,7 @@ See our Jupyter Notebook or take a look at our presentation.
     
     We found <THESE THREE VISUALIZATIONS ,(aerial application craft will likely be a 2 column damage/fatality chart)> to be particularly instructive. After studying the relationships in these charts, we arrived at our conclusions with a high degree of conviction.     
     
-    We arrived at our eventual conclusions cleaning the data, establishing criteria for measuring safety, and comparing aircrafts to other aircrafts in their respective industries.
+    We arrived at our eventual conclusions by cleaning the data, establishing criteria for measuring safety, and comparing aircrafts to other aircrafts in their respective industries.
     
   
 We examined several critical factors, including fatality rates, injury severity, weather resistance, and aircraft resilience. These factors play a pivotal role in determining the overall safety of an aircraft.
