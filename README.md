@@ -19,15 +19,17 @@ We filtered through the dataset, removing entries from vehicles that were not ai
 
 ### Conclusions
 
+![Fatality Rate of private planes](plots/private_fatality.jpg)
+
 Our recommended plane in the small/private aircraft industry is the Beech 35 and the Cessna 208B. Factors we considered are Injury severity, fatality rate as well as aircraft damage. Beech 35 had the least fatality rate with a rate of 0.17 and cessna 208B was the second best with 0.28. Our first option the Beech 35 also had the least destroyed aircraft damages from the avg accidents.
 
-![Fatality Rate of private planes](plots/Fatality_rate_make_model.png)
+![Top 3 Boeing planes vs Top 3 Airbus](plots/boeing_airbus.jpg)
 
 In the large/commercial aircraft category, we determined that the Boeing 767 and the Boeing 747 carried the least risk. These wide-body airplanes boasted the two lowest fatality rates for large planes, and showed very low fatality injuries per accident. The two aircraft also offer 2-engine (767) and 4-engine (747) diversity, allowing our stakeholders to enter the commercial market from multiple angles.
-For aerial application, we recommend the Grumman 164 and the Air Tractor 301. 
 
 ![Comparison of Injuries per Report Amongst 4 Makes of Aerial Application Plane](plots/work_plane_chart.jpg)
-    
+
+For aerial application, we recommend the Grumman 164 and the Air Tractor 301.     
 These planes earned our recommendation because of their exceptional  record for limiting deadly accidents and for rarely being totally destroyed. They both performed well in assessments related to weather as well.
 
 In summary, we conducted extensive data cleaning, exploratory analysis, and attempted to identify key stats to track to evaluate the quality of different airplanes.  The airplanes we determined to be best in class are: SMALLPLANES, the Boeing 767 and 747 for commercial use, and the Grumman 164 and Air Tractor 301 for aerial application. These planes compared favorably to other models in their industry, and we feel that we can offer our strong recommendation.
