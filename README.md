@@ -26,7 +26,7 @@ Our recommended plane in the small/private aircraft industry is the Beech 35 and
 In the large/commercial aircraft category, we determined that the Boeing 767 and the Boeing 747 carried the least risk. These wide-body airplanes boasted the two lowest fatality rates for large planes, and showed very low fatality injuries per accident. The two aircraft also offer 2-engine (767) and 4-engine (747) diversity, allowing our stakeholders to enter the commercial market from multiple angles.
 For aerial application, we recommend the Grumman 164 and the Air Tractor 301. 
 
-    ![Comparison of Injuries per Report Amongst 4 Makes of Aerial Application Plane](/plots/work_plane_chart.jpg)
+    ![Comparison of Injuries per Report Amongst 4 Makes of Aerial Application Plane](plots/work_plane_chart.jpg)
     
 These planes earned our recommendation because of their exceptional  record for limiting deadly accidents and for rarely being totally destroyed. They both performed well in assessments related to weather as well.
 
