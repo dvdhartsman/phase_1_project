@@ -17,17 +17,17 @@ The data had records dating back to 1948. Every record corresponded to an offici
 
 We filtered through the dataset, removing entries from vehicles that were not airplanes. To capture the most representative subset of the dataset, we removed records before the year 2003. We also created categorical columns, dropped certain extraneous information, and imputed selected missing values. We employed inferential statistics to draw meaningful insights from a sample of more than 100 different specific airplane models that occurred most often in our data. This statistical approach allowed us to make reliable determinations and draw conclusions about the safety of various airplane models and manufacturers. We examined several critical factors, including fatality rates, injury severity, weather resistance, and aircraft structural resilience.
 
-### Conclusions
+## Conclusions
 
-## Private aircraft
+### Private aircraft
 ![Fatality Rate of top 3 private planes](plots/private_fatality.jpg)
 Our recommended plane in the small/private aircraft industry is the Beech 35 and the Cessna 208B. Factors we considered are Injury severity, fatality rate as well as aircraft damage. Beech 35 had the least fatality rate with a rate of 0.17 and cessna 208B was the second best with 0.28. Our first option the Beech 35 also had the least destroyed aircraft damages from the avg accidents.
 
-## Commercial aircraft
+### Commercial aircraft
 ![Top 3 Boeing planes vs Top 3 Airbus](plots/boeing_airbus.jpg)
 In the large/commercial aircraft category, we determined that the Boeing 767 and the Boeing 747 carried the least risk. These wide-body airplanes boasted the two lowest fatality rates for large planes, and showed very low fatality injuries per accident. The two aircraft also offer 2-engine (767) and 4-engine (747) diversity, allowing our stakeholders to enter the commercial market from multiple angles.
 
-## Aerial application
+### Aerial application
 ![Comparison of Injuries per Report Amongst 4 Makes of Aerial Application Plane](plots/work_plane_chart.jpg)
 For aerial application, we recommend the Grumman 164 and the Air Tractor 301.     
 These planes earned our recommendation because of their exceptional  record for limiting deadly accidents and for rarely being totally destroyed. They both performed well in assessments related to weather as well.
